@@ -4,6 +4,18 @@ Welcome to Puppet Show
 
 Puppet Show is a collection of Puppet__ modules.
 
+After cloning you have to initialize the submodules by executing::
+
+    git submodule init 
+
+Once initialized you have to update and fetch all the data from that project 
+and check out the appropriate commits listed in your superprojects::
+
+    git submodule update
+
+Further information for handling git submodules can be found at the `Git Book`_.
+
 .. _Puppetlabs: http://www.puppetlabs.com/
+.. _Git Book: http://git-scm.com/book/en/Git-Tools-Submodules
 
 __ Puppetlabs_
