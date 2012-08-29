@@ -6,4 +6,4 @@ Puppet Show is a collection of Puppet__ modules.
 
 .. _Puppetlabs: http://www.puppetlabs.com/
 
-__ Puppelabs_
+__ Puppetlabs_
