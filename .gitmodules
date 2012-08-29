@@ -31,3 +31,6 @@
 [submodule "supervisor"]
 	path = supervisor
 	url = https://github.com/puppet-show/puppet-supervisor.git
+[submodule "gitolite"]
+	path = gitolite
+	url = https://github.com/puppet-show/puppet-gitolite.git
