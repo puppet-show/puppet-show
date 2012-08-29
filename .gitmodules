@@ -1,0 +1,33 @@
+[submodule "shorewall"]
+	path = shorewall
+	url = https://github.com/puppet-show/puppet-shorewall.git
+[submodule "puppet"]
+	path = puppet
+	url = https://github.com/puppet-show/puppet-puppet.git
+[submodule "puppet-shorewall"]
+	path = puppet-shorewall
+	url = https://github.com/puppet-show/puppet-shorewall.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/puppet-show/puppet-apt.git
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/puppet-show/puppet-nodejs.git
+[submodule "phpfpm"]
+	path = phpfpm
+	url = https://github.com/puppet-show/puppet-phpfpm.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/puppet-show/puppet-nginx.git
+[submodule "django"]
+	path = django
+	url = https://github.com/puppet-show/puppet-django.git
+[submodule "postgis"]
+	path = postgis
+	url = https://github.com/puppet-show/puppet-postgis.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/puppet-show/puppet-postgresql.git
+[submodule "supervisor"]
+	path = supervisor
+	url = https://github.com/puppet-show/puppet-supervisor.git
