@@ -4,9 +4,6 @@
 [submodule "puppet"]
 	path = puppet
 	url = https://github.com/puppet-show/puppet-puppet.git
-[submodule "puppet-shorewall"]
-	path = puppet-shorewall
-	url = https://github.com/puppet-show/puppet-shorewall.git
 [submodule "apt"]
 	path = apt
 	url = https://github.com/puppet-show/puppet-apt.git
@@ -34,3 +31,9 @@
 [submodule "gitolite"]
 	path = gitolite
 	url = https://github.com/puppet-show/puppet-gitolite.git
+[submodule "apache"]
+	path = apache
+	url = https://github.com/puppet-show/puppet-apache.git
+[submodule "php"]
+	path = php
+	url = https://github.com/puppet-show/puppet-php.git
